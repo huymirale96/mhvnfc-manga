@@ -8,9 +8,9 @@
 - [Fairy Tail 100 Years Quest](/mangas/ft100.html)
 - [Fairy Tail City Hero](/mangas/ftch.html)
 - [Fairy Tail Happy phiêu lưu kí](/mangas/ftha.html)
-- [Gate: Jieitai Kano Chi nite, Kaku Tatakaeri](/mangas/gate-jieitai)
-- [Mashima HERO'S](/mangas/heros)
-- [Sword Art Online: Project Alicization](/mangas/sao-pa)
+- [Gate: Jieitai Kano Chi nite, Kaku Tatakaeri](/mangas/gate-jieitai.html)
+- [Mashima HERO'S](/mangas/heros.html)
+- [Sword Art Online: Project Alicization](/mangas/sao-pa.html)
 
 ---
 Nếu truyện bị lỗi, vui lòng liên hệ với fanpage [Mashima Hiro VN FC](https://fb.com/mashimahirovnfc)!
