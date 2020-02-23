@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/khanhdinh02/mhvnfc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khanhdinh02/mhvnfc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Mashima Hiro VN FC manga
+Đây là nơi up truyện tạm thời của fanpage [Mashima Hiro VN FC](https://fb.com/mashimahirovnfc) và [Black Clover VN Fanpage](https://fb.com/Black-Clover-VN-Fanpage-1049221435105449)
+### Danh sách manga
+- [Black Clover](/mangas/black-clover.html)
+- [Boruto](/mangas/boruto.html)
+- [Dr. Stone](/mangas/dr-stone.html)
+- [Edens Zero](/mangas/ez.html)
+- [Fairy Tail 100 Years Quest](/mangas/ft100.html)
+- [Fairy Tail City Hero](/mangas/ftch.html)
+- [Fairy Tail Happy phiêu lưu kí](/mangas/ftha.html)
+- [Gate: Jieitai Kano Chi nite, Kaku Tatakaeri](/mangas/gate-jieitai)
+- [Mashima HERO'S](/mangas/heros)
+- [Sword Art Online: Project Alicization](/mangas/sao-pa)
+---
+Nếu truyện bị lỗi, vui lòng liên hệ với fanpage [Mashima Hiro VN FC}(https://fb.com/mashimahirovnfc)!
