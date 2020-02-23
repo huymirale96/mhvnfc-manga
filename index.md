@@ -11,5 +11,6 @@
 - [Gate: Jieitai Kano Chi nite, Kaku Tatakaeri](/mangas/gate-jieitai)
 - [Mashima HERO'S](/mangas/heros)
 - [Sword Art Online: Project Alicization](/mangas/sao-pa)
+
 ---
-Nếu truyện bị lỗi, vui lòng liên hệ với fanpage [Mashima Hiro VN FC}(https://fb.com/mashimahirovnfc)!
+Nếu truyện bị lỗi, vui lòng liên hệ với fanpage [Mashima Hiro VN FC](https://fb.com/mashimahirovnfc)!
