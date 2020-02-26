@@ -5,6 +5,7 @@
 - [Boruto](/mangas/boruto.html)
 - [Dr. Stone](/mangas/dr-stone.html)
 - [Edens Zero](/mangas/ez.html)
+- [Fairy Tail chapter 545 (Full color)](/ft/full-color-fairy-tail-chapter-545.5461.html)
 - [Fairy Tail 100 Years Quest](/mangas/ft100.html)
 - [Fairy Tail City Hero](/mangas/ftch.html)
 - [Fairy Tail Happy phiêu lưu kí](/mangas/ftha.html)
