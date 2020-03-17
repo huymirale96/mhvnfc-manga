@@ -1,3 +1,8 @@
 img {
-	max-width:100%;
+	max-width: 100%;
+}
+
+#adblock-warning {
+	color: red;
+	font-weight: bold;
 }
