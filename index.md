@@ -14,4 +14,6 @@
 - [Sword Art Online: Project Alicization](/mangas/sao-pa.html)
 
 ---
-Nếu truyện bị lỗi, vui lòng liên hệ với fanpage [Mashima Hiro VN FC](https://fb.com/mashimahirovnfc)!
+Nếu truyện bị lỗi, vui lòng liên hệ với fanpage [Mashima Hiro VN FC](https://fb.com/mashimahirovnfc)
+
+Cảm ơn các bạn đã ủng hộ!
